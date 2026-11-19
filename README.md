@@ -1,4 +1,4 @@
-# mojeeb-app
+# Mojeeb AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,162 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mojeeb-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mojeeb.app/
+Mojeeb AI provides an AI-powered WhatsApp bot and customer service platform that automates conversations, captures leads, and drives sales across multiple channels. It offers integrated CRM features, multi‑channel messaging, and tools for businesses in the Middle East and beyond, with free trials and no credit‑card required.
+
+**Areas:** Company · AI · WhatsApp · Customer-Service · CRM · Middle-East
+
+## Mojeeb AI on APIs.io
+
+Everything profiled for Mojeeb AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mojeeb-app/](https://apis.io/providers/mojeeb-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [Mojeeb AI Account API](https://apis.io/apis/mojeeb-app/mojeeb-app-account-api/) — The calling key itself: who it is, its company and its limits.
+- [Mojeeb AI Ads API](https://apis.io/apis/mojeeb-app/mojeeb-app-ads-api/) — An agent's Meta ads, as the taps and comments on them describe them, with the taps, comment replies, conversations, contacts and leads each brought in.…
+- [Mojeeb AI Agents API](https://apis.io/apis/mojeeb-app/mojeeb-app-agents-api/) — The agents a key can act on, where every agent endpoint's `agentId` comes from, and each agent's settings.
+- [Mojeeb AI Analytics API](https://apis.io/apis/mojeeb-app/mojeeb-app-analytics-api/) — An agent's activity day by day: new conversations, messages, customer mood, angry conversations and completed actions.
+- [Mojeeb AI Attachments API](https://apis.io/apis/mojeeb-app/mojeeb-app-attachments-api/) — An agent's AI attachments: the photos, albums, videos and documents its AI sends to customers, their media, and when the AI sends each.
+- [Mojeeb AI Broadcasts API](https://apis.io/apis/mojeeb-app/mojeeb-app-broadcasts-api/) — An agent's WhatsApp broadcasts: one approved template to many numbers, and how each message went. Plans with broadcasts only.
+- [Mojeeb AI Comments API](https://apis.io/apis/mojeeb-app/mojeeb-app-comments-api/) — The Facebook and Instagram comments on an agent's pages: the reply under each, its moderation (comment auto-hide), and hiding or showing one.
+- [Mojeeb AI Connections API](https://apis.io/apis/mojeeb-app/mojeeb-app-connections-api/) — The channels connected to an agent, and whether the AI answers on each.
+- [Mojeeb AI Contacts API](https://apis.io/apis/mojeeb-app/mojeeb-app-contacts-api/) — The people behind an agent's conversations and leads.
+- [Mojeeb AI Conversations API](https://apis.io/apis/mojeeb-app/mojeeb-app-conversations-api/) — An agent's conversations and their messages, their state and assignee, team replies, and test chats with the agent.
+- [Mojeeb AI Custom API](https://apis.io/apis/mojeeb-app/mojeeb-app-custom-api-api/) — An agent's custom API tools: what its AI can do with your own system, each one link with what the AI fills in, and the site's login. Paid plans.
+- [Mojeeb AI Follow Ups API](https://apis.io/apis/mojeeb-app/mojeeb-app-follow-ups-api/) — When an agent's AI follows up with a customer who went quiet.
+- [Mojeeb AI Knowledge API](https://apis.io/apis/mojeeb-app/mojeeb-app-knowledge-api/) — What an agent's AI answers from.
+- [Mojeeb AI Leads API](https://apis.io/apis/mojeeb-app/mojeeb-app-leads-api/) — An agent's leads (the dashboard's Clients table) and who they are assigned to, its lead form, and the prompt that decides when its AI saves a lead.
+- [Mojeeb AI Notes API](https://apis.io/apis/mojeeb-app/mojeeb-app-notes-api/) — A contact's timeline of notes.
+- [Mojeeb AI Saved replies API](https://apis.io/apis/mojeeb-app/mojeeb-app-saved-replies-api/) — An agent's saved replies: the shortcuts your team sends from the inbox composer, with text, media or both.
+- [Mojeeb AI Specification API](https://apis.io/apis/mojeeb-app/mojeeb-app-specification-api/) — This contract, served by the API itself.
+- [Mojeeb AI Team API](https://apis.io/apis/mojeeb-app/mojeeb-app-team-api/) — Your organization's members, their roles and the agents each can open, invitations and changes to the team (`team:write`), and whether Mojeeb Support may…
+- [Mojeeb AI Tickets API](https://apis.io/apis/mojeeb-app/mojeeb-app-tickets-api/) — An agent's tickets (the dashboard's Tickets table): complaints, issues and refund requests, numbered per agent, and who they are assigned to; its ticket…
+- [Mojeeb AI Tool runs API](https://apis.io/apis/mojeeb-app/mojeeb-app-tool-runs-api/) — Every time an agent's AI used a tool, across every tool: which tool, how it went, the conversation it ran in and the ad behind it. Read-only.
+- [Mojeeb AI Uploads API](https://apis.io/apis/mojeeb-app/mojeeb-app-uploads-api/) — Files staged for 24 hours, so a client that can't host a file can still use one wherever a media link is taken: a template header, an AI attachment, a…
+- [Mojeeb AI Usage API](https://apis.io/apis/mojeeb-app/mojeeb-app-usage-api/) — Your organization's plan and its message and agent usage, now and per billing period.
+- [Mojeeb AI Widget API](https://apis.io/apis/mojeeb-app/mojeeb-app-widget-api/) — An agent's website chat widget: whether it's on, its look and its embed code.
+- [Mojeeb AI Whats App API](https://apis.io/apis/mojeeb-app/mojeeb-app-whats-app-api/) — A WhatsApp number's templates: list, create, edit and delete them; send WhatsApp messages and templates, and look up their status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mojeeb AI Agentic Access](https://apis.io/agentic-access/mojeeb-app/mojeeb-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Ad](https://apis.io/schemas/mojeeb-app/mojeeb-app-ad/)
+- [AgentSetup](https://apis.io/schemas/mojeeb-app/mojeeb-app-agent-setup/)
+- [Comment](https://apis.io/schemas/mojeeb-app/mojeeb-app-comment/)
+- [Conversation](https://apis.io/schemas/mojeeb-app/mojeeb-app-conversation/)
+- [Message](https://apis.io/schemas/mojeeb-app/mojeeb-app-message/)
+- [Ticket](https://apis.io/schemas/mojeeb-app/mojeeb-app-ticket/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mojeeb App Context](https://apis.io/jsonld/mojeeb-app/mojeeb-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Mojeeb AI API Rules](https://apis.io/rules/mojeeb-app/mojeeb-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mojeeb AI Authentication](https://apis.io/security/mojeeb-app/mojeeb-app-authentication/)
+- [Mojeeb AI Domain Security](https://apis.io/security/mojeeb-app/mojeeb-app-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Mojeeb AI Scopes](https://apis.io/scopes/mojeeb-app/mojeeb-app-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Mojeeb AI Plans Pricing](https://apis.io/plans/mojeeb-app/mojeeb-app-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Mojeeb AI Rate Limits](https://apis.io/rate-limits/mojeeb-app/mojeeb-app-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mojeeb.app/)
+- [Documentation](https://docs.mojeeb.app/)
+- [Getting started](https://docs.mojeeb.app/docs/developers/quickstart)
+- [API reference](https://docs.mojeeb.app/llms.txt)
+- [Support](https://mojeeb.app/support)
+- [Terms of service](https://mojeeb.app/terms-conditions)
+
+## API Evangelist rating
+
+**Kin Score 47.4** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 63.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 17.1 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 8.5 |
+
+**Agent readiness 57.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mojeeb-app/](https://apis.io/providers/mojeeb-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mojeeb AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mojeeb-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
