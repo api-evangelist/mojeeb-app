@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mojeeb AI provides an AI-powered WhatsApp bot and customer service platform that automates conversations, captures leads, and drives sales across multiple channels. It offers integrated CRM features, multi‑channel messaging, and tools for businesses in the Middle East and beyond, with free trials and no credit‑card required.
+Mojeeb AI provides an AI-powered WhatsApp chatbot and customer service platform for businesses across the Middle East. It automates lead qualification, order handling, and support across multiple channels, offering integrations with Google Sheets, Google Calendar, Shopify, and CRM systems. The service claims to handle millions of messages, support over ten industry sectors, and deliver real-time conversational assistance without credit card requirements.
 
-**Areas:** Company · AI · WhatsApp · Customer-Service · CRM · Middle-East
+**Areas:** AI · WhatsApp · Customer Service · Middle East · Chatbot
 
 ## Mojeeb AI on APIs.io
 
@@ -145,12 +145,6 @@ The permissions the API asks for.
 
 - [Mojeeb AI Scopes](https://apis.io/scopes/mojeeb-app/mojeeb-app-scopes/)
 
-#### Plans and pricing (1)
-
-Published plans, tiers and prices.
-
-- [Mojeeb AI Plans Pricing](https://apis.io/plans/mojeeb-app/mojeeb-app-plans-pricing/)
-
 #### Rate limits (1)
 
 Published request limits.
@@ -170,7 +164,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 47.4** — developing · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 46.9** — developing · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -208,7 +202,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.7** — AI & Biometrics
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mojeeb-app/](https://apis.io/providers/mojeeb-app/).
 
